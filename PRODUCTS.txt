@@ -1,2 +1,2 @@
-ID	COUNTRY	BASE_URL	PRODUCT_URL	LOG_CHANNEL
+ID	COUNTRY	BASE_URL	LIST_URL	LOG_CHANNEL
 1	TR	https://www.hepsiburada.com	https://www.hepsiburada.com/ekran-kartlari-c-204	-1001196888144
